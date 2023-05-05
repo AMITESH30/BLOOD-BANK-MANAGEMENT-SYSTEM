@@ -1,6 +1,4 @@
 # JAVA_PROJECT
-Sure, here's an example README file for a blood bank management system:
-
 # Blood Bank Management System
 
 This is a web application for managing blood donations and requests at a blood bank. It allows donors to sign up and donate blood, and allows hospitals to request and receive blood donations.
