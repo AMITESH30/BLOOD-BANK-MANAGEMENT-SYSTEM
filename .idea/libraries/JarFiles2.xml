@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JarFiles2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/JarFiles/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
