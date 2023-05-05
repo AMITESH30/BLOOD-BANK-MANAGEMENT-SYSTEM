@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Blood_Bank_Management_System">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/Blood_Bank_Management_System.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
